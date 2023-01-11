@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author uza
+ *
+ */
+module SoalTestJava {
+	//
+}
